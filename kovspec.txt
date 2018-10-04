@@ -2,7 +2,7 @@ Egyszeru Szamologep
 
 
 1.	Áttekintés
-	
+	Létre kell hozni egy egyszerû számológépet ami nagyon jól tud számolni.
 2. Jelenlegi helyzet
 	
 3.	Funkcionális követelmények
