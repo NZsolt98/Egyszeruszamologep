@@ -6,5 +6,5 @@ Egyszeru Szamologep
 2. Jelenlegi helyzet
 	
 3.	Funkcionális követelmények
-	
+	paradicsomleves a kukába, dinoszauroszokat visszahozni
 4.	Technikai követelmények
