@@ -1,0 +1,10 @@
+Egyszeru Szamologep
+
+
+1.	Áttekintés
+	
+2. Jelenlegi helyzet
+	
+3.	Funkcionális követelmények
+	
+4.	Technikai követelmények
