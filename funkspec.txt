@@ -1,0 +1,11 @@
+1. A rendszer céljai
+	A felhasználó könnyedén eltudja végezni az alapvetõ mûveleteket.
+
+2. A jelenlegi helyzet 
+
+3. Vágyálom rendszer
+	A felhasználó gondok nélkül tudja használni a számológépet a lehetõ legkisebb 	erõbefektetéssel
+4. Követelménylista
+
+5. Használati esetek
+	
