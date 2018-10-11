@@ -1,10 +1,10 @@
-Egyszeru Szamologep
+Egyszeru szamologep
 
 
-1.	Áttekintés
-	Létre kell hozni egy egyszerû számológépet ami nagyon jól tud számolni.
-2. Jelenlegi helyzet
+1.Áttekintés
+	Egy számológépet kell létrehoznunk amely képes az alapvetõ mûveletek elvégzésére.
+2.Jelenlegi helyzet
 	
-3.	Funkcionális követelmények
-	paradicsomleves a kukába, dinoszauroszokat visszahozni
-4.	Technikai követelmények
+3.Funkcionális követelmények
+	
+4.Technikai követelmények
