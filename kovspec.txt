@@ -9,3 +9,9 @@ Egyszeru szamologep
 	-A számológép képes legyen gombok vagy billentyûzetrõl bevitt számok és mûveletek 	elvégzésére
 	-Ugyanabba a textboxba legyen kiíratva az elvégzett mûvelet eredménye.
 4.Technikai követelmények
+
+5.Követelménylista
+	-Elvárás hogy a számológép az alapvetõ mûveleteket el tudja végezni és gombokkal valamint billenytyûzetrõl is bevihetõk legyenek a megadott a számok valamint mûveletek.
+	-Jó lenne ha ugyanabba a textboxba lenne kiiratva a végeredmény a mûvelet elvégzése		 után
+6. Szabad riport
+	A megrendelõvel történt megállapodsáok szerint a számológép képes lesz az alapvetõ mûveletek: öszeadás,kivonás,szorzás,osztás elvégzésére, amennyiben megvalósítható továbbá képes lesz a mûvelet beírásának helyén megjeleníteni a végeredményt.
