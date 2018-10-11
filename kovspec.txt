@@ -6,5 +6,6 @@ Egyszeru szamologep
 2.Jelenlegi helyzet
 	
 3.Funkcionális követelmények
-	
+	-A számológép képes legyen gombok vagy billentyûzetrõl bevitt számok és mûveletek 	elvégzésére
+	-Ugyanabba a textboxba legyen kiíratva az elvégzett mûvelet eredménye.
 4.Technikai követelmények
