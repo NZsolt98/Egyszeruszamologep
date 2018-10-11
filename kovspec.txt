@@ -3,8 +3,9 @@ Egyszeru Szamologep
 
 1.	Áttekintés
 	
-2. Jelenlegi helyzet
-	
+2.	Jelenlegi helyzet
+	-Cégnél papíron számolnak és megkérték a mi csapatunkat hogy készétsünk el egyet
 3.	Funkcionális követelmények
-	paradicsomleves a kukába, dinoszauroszokat visszahozni
+
 4.	Technikai követelmények
+	-Ne legyenenek benne hibák, megtudja különböztetti a számokat betûket és figyelmen kívül hadja a betû és különleges karakterek lenyomását. Windows kompatibilis, alkalmaztás formájában.
